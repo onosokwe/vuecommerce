@@ -1,0 +1,38 @@
+[
+	{
+		"id": "1",
+		"title": "Beans and Rice",
+		"description": "This is the best food in the world",
+		"price": "40000"
+	},
+	{
+		"id": "2",
+		"title": "Saxophone 890",
+		"description": "This is the best Saxophone in the world",
+		"price": "90000"
+	},
+	{
+		"id": "3",
+		"title": "Sophomore Estate",
+		"description": "This is the best Estate in the world",
+		"price": "49000"
+	},
+	{
+		"id": "4",
+		"title": "Dell Laptop",
+		"description": "This is the best Laptop in the world",
+		"price": "12000"
+	},
+	{
+		"id": "5",
+		"title": "iPhone X",
+		"description": "This is the best iPhone in the world",
+		"price": "39000"
+	},
+	{
+		"id": "6",
+		"title": "Samsung Phone",
+		"description": "This is the best Samsung Phone in the world",
+		"price": "78000"
+	}
+]
