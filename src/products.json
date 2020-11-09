@@ -34,5 +34,17 @@
 		"title": "Samsung Phone",
 		"description": "This is the best Samsung Phone in the world",
 		"price": "78000"
+	},
+	{
+		"id": "7",
+		"title": "React Native Apps",
+		"description": "This is the best React Native App in the world",
+		"price": "39000"
+	},
+	{
+		"id": "8",
+		"title": "Sateless Widgets in Flutter",
+		"description": "This is the best Flutter App in the world",
+		"price": "78000"
 	}
 ]
